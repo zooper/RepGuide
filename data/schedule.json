@@ -1,1 +1,497 @@
-{"program":"September 30-day training program","timezone":"America/New_York","source":"Garmin","note":"Static RepGuide mirror. Update this file when the Garmin plan changes.","workouts":[{"date":"2026-09-01","title":"Upper Body + Core","focus":"Strength","exercises":[{"exercise":"dumbbell-bench-press","sets":3,"reps":"8–12","rest":"90 sec"},{"exercise":"bent-over-dumbbell-row","sets":3,"reps":"8–12","rest":"90 sec"},{"exercise":"dumbbell-shoulder-press","sets":3,"reps":"8–10","rest":"90 sec"},{"exercise":"lat-pulldown","sets":3,"reps":"10–12","rest":"90 sec"},{"exercise":"dead-bug","sets":3,"reps":"8/side","rest":"45 sec"},{"exercise":"farmer-carry","sets":3,"reps":"30–40 m","rest":"60 sec"}]},{"date":"2026-09-02","title":"Easy Run Intervals","focus":"Run · controlled effort","exercises":[]},{"date":"2026-09-03","title":"Bike 4 × 4","focus":"Bike · power intervals","exercises":[]},{"date":"2026-09-04","title":"Full Body Strength","focus":"Strength","exercises":[]},{"date":"2026-09-05","title":"Rowing Base","focus":"Row · steady effort","exercises":[]},{"date":"2026-09-06","title":"Easy Run Intervals","focus":"Run · controlled effort","exercises":[]},{"date":"2026-09-07","title":"Recovery / Mobility","focus":"Recovery","exercises":[]}]}
+{
+  "program": "September 30-day training program",
+  "timezone": "America/New_York",
+  "source": "Garmin Connect",
+  "note": "Static RepGuide mirror of the Garmin calendar. ChatGPT updates this file when the plan changes.",
+  "workouts": [
+    {
+      "date": "2026-09-01",
+      "title": "September v2 — Upper Hypertrophy + Core — Guided",
+      "focus": "Strength",
+      "exercises": [
+        {
+          "exercise": "dumbbell-bench-press",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "bent-over-dumbbell-row",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "dumbbell-shoulder-press",
+          "sets": 3,
+          "reps": 8,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "lat-pulldown",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "farmer-carry",
+          "sets": 3,
+          "reps": "30–40 m",
+          "rest": "45 sec"
+        },
+        {
+          "exercise": "dead-bug",
+          "sets": 3,
+          "reps": 10,
+          "rest": "45 sec"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "title": "Sep 02 - ICG 4x4",
+      "focus": "Bike · power intervals",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-03",
+      "title": "September v2 — Full Body Strength — Garmin Exercises",
+      "focus": "Strength",
+      "exercises": [
+        {
+          "exercise": "goblet-squat",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "kettlebell-deadlift",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "dumbbell-bench-press",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "bent-over-dumbbell-row",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "lat-pulldown",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Sep 04 - Row Steady",
+      "focus": "Row · steady effort",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Sep 05 - Easy Run",
+      "focus": "Run · controlled effort",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-06",
+      "title": "September v2 — Active Recovery",
+      "focus": "Recovery",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Sep 07 - Run 5x2:30 FIXED",
+      "focus": "Run · intervals",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-08",
+      "title": "September v2 — Upper Hypertrophy + Core — Guided",
+      "focus": "Strength",
+      "exercises": [
+        {
+          "exercise": "dumbbell-bench-press",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "bent-over-dumbbell-row",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "dumbbell-shoulder-press",
+          "sets": 3,
+          "reps": 8,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "lat-pulldown",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "farmer-carry",
+          "sets": 3,
+          "reps": "30–40 m",
+          "rest": "45 sec"
+        },
+        {
+          "exercise": "dead-bug",
+          "sets": 3,
+          "reps": 10,
+          "rest": "45 sec"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Sep 09 - ICG 4x4 Progression",
+      "focus": "Bike · power intervals",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-10",
+      "title": "September v2 — Full Body Strength — Garmin Exercises",
+      "focus": "Strength",
+      "exercises": [
+        {
+          "exercise": "goblet-squat",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "kettlebell-deadlift",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "dumbbell-bench-press",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "bent-over-dumbbell-row",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "lat-pulldown",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Sep 11 - Row Steady",
+      "focus": "Row · steady effort",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Sep 12 - Easy Run 27",
+      "focus": "Run · easy",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-13",
+      "title": "September v2 — Active Recovery",
+      "focus": "Recovery",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Sep 14 - Run 4x4",
+      "focus": "Run · intervals",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-15",
+      "title": "September v2 — Upper Hypertrophy + Core — Guided",
+      "focus": "Strength",
+      "exercises": [
+        {
+          "exercise": "dumbbell-bench-press",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "bent-over-dumbbell-row",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "dumbbell-shoulder-press",
+          "sets": 3,
+          "reps": 8,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "lat-pulldown",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "farmer-carry",
+          "sets": 3,
+          "reps": "30–40 m",
+          "rest": "45 sec"
+        },
+        {
+          "exercise": "dead-bug",
+          "sets": 3,
+          "reps": 10,
+          "rest": "45 sec"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Sep 16 - ICG 5x4",
+      "focus": "Bike · power intervals",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-17",
+      "title": "September v2 — Full Body Strength — Garmin Exercises",
+      "focus": "Strength",
+      "exercises": [
+        {
+          "exercise": "goblet-squat",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "kettlebell-deadlift",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "dumbbell-bench-press",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "bent-over-dumbbell-row",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "lat-pulldown",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Sep 18 - Row Progressive",
+      "focus": "Row · progressive",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Sep 19 - Easy Run 30",
+      "focus": "Run · easy",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-20",
+      "title": "September v2 — Active Recovery",
+      "focus": "Recovery",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Sep 21 - Run Quality Consolidate",
+      "focus": "Run · quality",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-22",
+      "title": "September v2 — Upper Hypertrophy + Core — Guided",
+      "focus": "Strength",
+      "exercises": [
+        {
+          "exercise": "dumbbell-bench-press",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "bent-over-dumbbell-row",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "dumbbell-shoulder-press",
+          "sets": 3,
+          "reps": 8,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "lat-pulldown",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "farmer-carry",
+          "sets": 3,
+          "reps": "30–40 m",
+          "rest": "45 sec"
+        },
+        {
+          "exercise": "dead-bug",
+          "sets": 3,
+          "reps": 10,
+          "rest": "45 sec"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Sep 23 - ICG Consolidate",
+      "focus": "Bike · power intervals",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-24",
+      "title": "September v2 — Full Body Strength — Garmin Exercises",
+      "focus": "Strength",
+      "exercises": [
+        {
+          "exercise": "goblet-squat",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "kettlebell-deadlift",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "dumbbell-bench-press",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "bent-over-dumbbell-row",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "lat-pulldown",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Sep 25 - Row Steady",
+      "focus": "Row · steady effort",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Sep 26 - Easy Run 30",
+      "focus": "Run · easy",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-27",
+      "title": "September v2 — Active Recovery",
+      "focus": "Recovery",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Sep 28 - Progressive Run",
+      "focus": "Run · progressive",
+      "exercises": []
+    },
+    {
+      "date": "2026-09-29",
+      "title": "September v2 — Upper Hypertrophy + Core — Guided",
+      "focus": "Strength",
+      "exercises": [
+        {
+          "exercise": "dumbbell-bench-press",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "bent-over-dumbbell-row",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "dumbbell-shoulder-press",
+          "sets": 3,
+          "reps": 8,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "lat-pulldown",
+          "sets": 3,
+          "reps": 10,
+          "rest": "60 sec"
+        },
+        {
+          "exercise": "farmer-carry",
+          "sets": 3,
+          "reps": "30–40 m",
+          "rest": "45 sec"
+        },
+        {
+          "exercise": "dead-bug",
+          "sets": 3,
+          "reps": 10,
+          "rest": "45 sec"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Sep 30 - ICG Finale 40",
+      "focus": "Bike · power intervals",
+      "exercises": []
+    }
+  ]
+}
