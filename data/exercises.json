@@ -1,42 +1,42 @@
 {
   "dumbbell-bench-press": {
-    "name": "Dumbbell Bench Press",
+    "name": "Hantelpress på bänk",
     "gif": "https://raw.githubusercontent.com/zooper/exercise-library/main/gifs/SpYC0Kp.gif",
-    "cue": "Keep your shoulder blades back and down. Lower the dumbbells under control, then press without bouncing."
+    "cue": "Håll skulderbladen bakåt och nedåt. Sänk hantlarna kontrollerat och pressa upp utan att studsa."
   },
   "bent-over-dumbbell-row": {
-    "name": "Bent-over Dumbbell Row",
+    "name": "Hantelrodd framåtlutad",
     "gif": "https://raw.githubusercontent.com/zooper/exercise-library/main/gifs/BJ0Hz5L.gif",
-    "cue": "Keep your back flat and brace your core. Pull the elbow toward your hip rather than shrugging."
+    "cue": "Håll ryggen rak och spänn bålen. Dra armbågen mot höften utan att höja axeln."
   },
   "dumbbell-shoulder-press": {
-    "name": "Dumbbell Shoulder Press",
+    "name": "Hantelpress över huvud",
     "gif": "https://raw.githubusercontent.com/zooper/exercise-library/main/gifs/znQUdHY.gif",
-    "cue": "Start with wrists stacked over elbows. Press smoothly overhead while keeping ribs down."
+    "cue": "Börja med handlederna över armbågarna. Pressa kontrollerat över huvudet och håll revbenen nere."
   },
   "lat-pulldown": {
-    "name": "Lat Pulldown",
+    "name": "Latsdrag",
     "gif": "https://raw.githubusercontent.com/zooper/exercise-library/main/gifs/LEprlgG.gif",
-    "cue": "Lean back slightly, pull the bar toward the upper chest and control the return all the way up."
+    "cue": "Luta dig lätt bakåt, dra stången mot övre bröstet och kontrollera vägen tillbaka upp."
   },
   "dead-bug": {
-    "name": "Dead Bug",
+    "name": "Dead bug",
     "gif": "https://raw.githubusercontent.com/zooper/exercise-library/main/gifs/iny3m5y.gif",
-    "cue": "Keep your lower back gently pressed into the floor. Move opposite arm and leg slowly without losing position."
+    "cue": "Håll ländryggen lätt pressad mot golvet. Rör motsatt arm och ben långsamt utan att tappa positionen."
   },
   "farmer-carry": {
-    "name": "Farmer Carry",
+    "name": "Farmers walk",
     "gif": null,
-    "cue": "Stand tall, brace your core and walk with short, controlled steps. Keep the weights close and shoulders level."
+    "cue": "Stå stolt, spänn bålen och gå med korta, kontrollerade steg. Håll vikterna nära kroppen och axlarna i nivå."
   },
   "goblet-squat": {
-    "name": "Goblet Squat",
+    "name": "Goblet squat",
     "gif": "https://raw.githubusercontent.com/zooper/exercise-library/main/gifs/yn8yg1r.gif",
-    "cue": "Hold the weight close to your chest, keep your heels planted and descend under control."
+    "cue": "Håll vikten nära bröstet, behåll hälarna i golvet och gå ned kontrollerat."
   },
   "kettlebell-deadlift": {
-    "name": "Kettlebell Deadlift",
+    "name": "Kettlebell-marklyft",
     "gif": null,
-    "cue": "Hinge at the hips with a neutral back, keep the kettlebell close and drive through the floor."
+    "cue": "Fäll i höften med neutral rygg, håll kettlebellen nära kroppen och tryck ifrån golvet."
   }
 }
