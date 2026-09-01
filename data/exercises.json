@@ -1,1 +1,42 @@
-{"dumbbell-bench-press":{"name":"Dumbbell Bench Press","gif":"assets/gifs/dumbbell-bench-press.gif","cue":"Keep your shoulder blades back and down. Lower the dumbbells under control, then press without bouncing."},"bent-over-dumbbell-row":{"name":"Bent-over Dumbbell Row","gif":"assets/gifs/bent-over-dumbbell-row.gif","cue":"Keep your back flat and brace your core. Pull the elbow toward your hip rather than shrugging."},"dumbbell-shoulder-press":{"name":"Dumbbell Shoulder Press","gif":"assets/gifs/dumbbell-shoulder-press.gif","cue":"Start with wrists stacked over elbows. Press smoothly overhead while keeping ribs down."},"lat-pulldown":{"name":"Lat Pulldown","gif":"assets/gifs/lat-pulldown.gif","cue":"Lean back slightly, pull the bar toward the upper chest and control the return all the way up."},"dead-bug":{"name":"Dead Bug","gif":"assets/gifs/dead-bug.gif","cue":"Keep your lower back gently pressed into the floor. Move opposite arm and leg slowly without losing position."},"farmer-carry":{"name":"Farmer Carry","gif":null,"cue":"Stand tall, brace your core and walk with short, controlled steps. Keep the weights close and shoulders level."}}
+{
+  "dumbbell-bench-press": {
+    "name": "Dumbbell Bench Press",
+    "gif": "https://raw.githubusercontent.com/mohamedatef90/exercise-library/main/gifs/SpYC0Kp.gif",
+    "cue": "Keep your shoulder blades back and down. Lower the dumbbells under control, then press without bouncing."
+  },
+  "bent-over-dumbbell-row": {
+    "name": "Bent-over Dumbbell Row",
+    "gif": "https://raw.githubusercontent.com/mohamedatef90/exercise-library/main/gifs/BJ0Hz6HV.gif",
+    "cue": "Keep your back flat and brace your core. Pull the elbow toward your hip rather than shrugging."
+  },
+  "dumbbell-shoulder-press": {
+    "name": "Dumbbell Shoulder Press",
+    "gif": "https://raw.githubusercontent.com/mohamedatef90/exercise-library/main/gifs/znQUdHY.gif",
+    "cue": "Start with wrists stacked over elbows. Press smoothly overhead while keeping ribs down."
+  },
+  "lat-pulldown": {
+    "name": "Lat Pulldown",
+    "gif": "https://raw.githubusercontent.com/mohamedatef90/exercise-library/main/gifs/LEprlgG.gif",
+    "cue": "Lean back slightly, pull the bar toward the upper chest and control the return all the way up."
+  },
+  "dead-bug": {
+    "name": "Dead Bug",
+    "gif": "https://raw.githubusercontent.com/mohamedatef90/exercise-library/main/gifs/iny3m5y.gif",
+    "cue": "Keep your lower back gently pressed into the floor. Move opposite arm and leg slowly without losing position."
+  },
+  "farmer-carry": {
+    "name": "Farmer Carry",
+    "gif": null,
+    "cue": "Stand tall, brace your core and walk with short, controlled steps. Keep the weights close and shoulders level."
+  },
+  "goblet-squat": {
+    "name": "Goblet Squat",
+    "gif": "https://raw.githubusercontent.com/mohamedatef90/exercise-library/main/gifs/yn8yg1r.gif",
+    "cue": "Hold the weight close to your chest, keep your heels planted and descend under control."
+  },
+  "kettlebell-deadlift": {
+    "name": "Kettlebell Deadlift",
+    "gif": null,
+    "cue": "Hinge at the hips with a neutral back, keep the kettlebell close and drive through the floor."
+  }
+}
