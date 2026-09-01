@@ -6,491 +6,491 @@
   "workouts": [
     {
       "date": "2026-09-01",
-      "title": "September v2 — Upper Hypertrophy + Core — Guided",
-      "focus": "Strength",
+      "title": "Överkropp + bål",
+      "focus": "Styrka",
       "exercises": [
         {
           "exercise": "dumbbell-bench-press",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "bent-over-dumbbell-row",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "dumbbell-shoulder-press",
           "sets": 3,
           "reps": 8,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "lat-pulldown",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "farmer-carry",
           "sets": 3,
           "reps": "30–40 m",
-          "rest": "45 sec"
+          "rest": "45 sek"
         },
         {
           "exercise": "dead-bug",
           "sets": 3,
           "reps": 10,
-          "rest": "45 sec"
+          "rest": "45 sek"
         }
       ]
     },
     {
       "date": "2026-09-02",
-      "title": "Sep 02 - ICG 4x4",
-      "focus": "Bike · power intervals",
+      "title": "ICG 4×4",
+      "focus": "Cykel · wattintervaller",
       "exercises": []
     },
     {
       "date": "2026-09-03",
-      "title": "September v2 — Full Body Strength — Garmin Exercises",
-      "focus": "Strength",
+      "title": "Helkroppsstyrka",
+      "focus": "Styrka",
       "exercises": [
         {
           "exercise": "goblet-squat",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "kettlebell-deadlift",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "dumbbell-bench-press",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "bent-over-dumbbell-row",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "lat-pulldown",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         }
       ]
     },
     {
       "date": "2026-09-04",
-      "title": "Sep 04 - Row Steady",
-      "focus": "Row · steady effort",
+      "title": "Rodd – jämnt tempo",
+      "focus": "Rodd · jämnt tempo",
       "exercises": []
     },
     {
       "date": "2026-09-05",
-      "title": "Sep 05 - Easy Run",
-      "focus": "Run · controlled effort",
+      "title": "Lugn löpning",
+      "focus": "Löpning · kontrollerad ansträngning",
       "exercises": []
     },
     {
       "date": "2026-09-06",
-      "title": "September v2 — Active Recovery",
-      "focus": "Recovery",
+      "title": "Aktiv återhämtning",
+      "focus": "Återhämtning",
       "exercises": []
     },
     {
       "date": "2026-09-07",
-      "title": "Sep 07 - Run 5x2:30 FIXED",
-      "focus": "Run · intervals",
+      "title": "Löpning 5×2:30",
+      "focus": "Löpning · intervaller",
       "exercises": []
     },
     {
       "date": "2026-09-08",
-      "title": "September v2 — Upper Hypertrophy + Core — Guided",
-      "focus": "Strength",
+      "title": "Överkropp + bål",
+      "focus": "Styrka",
       "exercises": [
         {
           "exercise": "dumbbell-bench-press",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "bent-over-dumbbell-row",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "dumbbell-shoulder-press",
           "sets": 3,
           "reps": 8,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "lat-pulldown",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "farmer-carry",
           "sets": 3,
           "reps": "30–40 m",
-          "rest": "45 sec"
+          "rest": "45 sek"
         },
         {
           "exercise": "dead-bug",
           "sets": 3,
           "reps": 10,
-          "rest": "45 sec"
+          "rest": "45 sek"
         }
       ]
     },
     {
       "date": "2026-09-09",
-      "title": "Sep 09 - ICG 4x4 Progression",
-      "focus": "Bike · power intervals",
+      "title": "ICG 4×4 progression",
+      "focus": "Cykel · wattintervaller",
       "exercises": []
     },
     {
       "date": "2026-09-10",
-      "title": "September v2 — Full Body Strength — Garmin Exercises",
-      "focus": "Strength",
+      "title": "Helkroppsstyrka",
+      "focus": "Styrka",
       "exercises": [
         {
           "exercise": "goblet-squat",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "kettlebell-deadlift",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "dumbbell-bench-press",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "bent-over-dumbbell-row",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "lat-pulldown",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         }
       ]
     },
     {
       "date": "2026-09-11",
-      "title": "Sep 11 - Row Steady",
-      "focus": "Row · steady effort",
+      "title": "Rodd – jämnt tempo",
+      "focus": "Rodd · jämnt tempo",
       "exercises": []
     },
     {
       "date": "2026-09-12",
-      "title": "Sep 12 - Easy Run 27",
-      "focus": "Run · easy",
+      "title": "Lugn löpning 27 min",
+      "focus": "Löpning · lugnt",
       "exercises": []
     },
     {
       "date": "2026-09-13",
-      "title": "September v2 — Active Recovery",
-      "focus": "Recovery",
+      "title": "Aktiv återhämtning",
+      "focus": "Återhämtning",
       "exercises": []
     },
     {
       "date": "2026-09-14",
-      "title": "Sep 14 - Run 4x4",
-      "focus": "Run · intervals",
+      "title": "Löpning 4×4",
+      "focus": "Löpning · intervaller",
       "exercises": []
     },
     {
       "date": "2026-09-15",
-      "title": "September v2 — Upper Hypertrophy + Core — Guided",
-      "focus": "Strength",
+      "title": "Överkropp + bål",
+      "focus": "Styrka",
       "exercises": [
         {
           "exercise": "dumbbell-bench-press",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "bent-over-dumbbell-row",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "dumbbell-shoulder-press",
           "sets": 3,
           "reps": 8,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "lat-pulldown",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "farmer-carry",
           "sets": 3,
           "reps": "30–40 m",
-          "rest": "45 sec"
+          "rest": "45 sek"
         },
         {
           "exercise": "dead-bug",
           "sets": 3,
           "reps": 10,
-          "rest": "45 sec"
+          "rest": "45 sek"
         }
       ]
     },
     {
       "date": "2026-09-16",
-      "title": "Sep 16 - ICG 5x4",
-      "focus": "Bike · power intervals",
+      "title": "ICG 5×4",
+      "focus": "Cykel · wattintervaller",
       "exercises": []
     },
     {
       "date": "2026-09-17",
-      "title": "September v2 — Full Body Strength — Garmin Exercises",
-      "focus": "Strength",
+      "title": "Helkroppsstyrka",
+      "focus": "Styrka",
       "exercises": [
         {
           "exercise": "goblet-squat",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "kettlebell-deadlift",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "dumbbell-bench-press",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "bent-over-dumbbell-row",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "lat-pulldown",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         }
       ]
     },
     {
       "date": "2026-09-18",
-      "title": "Sep 18 - Row Progressive",
-      "focus": "Row · progressive",
+      "title": "Rodd – progression",
+      "focus": "Rodd · progression",
       "exercises": []
     },
     {
       "date": "2026-09-19",
-      "title": "Sep 19 - Easy Run 30",
-      "focus": "Run · easy",
+      "title": "Lugn löpning 30 min",
+      "focus": "Löpning · lugnt",
       "exercises": []
     },
     {
       "date": "2026-09-20",
-      "title": "September v2 — Active Recovery",
-      "focus": "Recovery",
+      "title": "Aktiv återhämtning",
+      "focus": "Återhämtning",
       "exercises": []
     },
     {
       "date": "2026-09-21",
-      "title": "Sep 21 - Run Quality Consolidate",
-      "focus": "Run · quality",
+      "title": "Löpning – kvalitet",
+      "focus": "Löpning · kvalitet",
       "exercises": []
     },
     {
       "date": "2026-09-22",
-      "title": "September v2 — Upper Hypertrophy + Core — Guided",
-      "focus": "Strength",
+      "title": "Överkropp + bål",
+      "focus": "Styrka",
       "exercises": [
         {
           "exercise": "dumbbell-bench-press",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "bent-over-dumbbell-row",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "dumbbell-shoulder-press",
           "sets": 3,
           "reps": 8,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "lat-pulldown",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "farmer-carry",
           "sets": 3,
           "reps": "30–40 m",
-          "rest": "45 sec"
+          "rest": "45 sek"
         },
         {
           "exercise": "dead-bug",
           "sets": 3,
           "reps": 10,
-          "rest": "45 sec"
+          "rest": "45 sek"
         }
       ]
     },
     {
       "date": "2026-09-23",
-      "title": "Sep 23 - ICG Consolidate",
-      "focus": "Bike · power intervals",
+      "title": "ICG – konsolidering",
+      "focus": "Cykel · wattintervaller",
       "exercises": []
     },
     {
       "date": "2026-09-24",
-      "title": "September v2 — Full Body Strength — Garmin Exercises",
-      "focus": "Strength",
+      "title": "Helkroppsstyrka",
+      "focus": "Styrka",
       "exercises": [
         {
           "exercise": "goblet-squat",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "kettlebell-deadlift",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "dumbbell-bench-press",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "bent-over-dumbbell-row",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "lat-pulldown",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         }
       ]
     },
     {
       "date": "2026-09-25",
-      "title": "Sep 25 - Row Steady",
-      "focus": "Row · steady effort",
+      "title": "Rodd – jämnt tempo",
+      "focus": "Rodd · jämnt tempo",
       "exercises": []
     },
     {
       "date": "2026-09-26",
-      "title": "Sep 26 - Easy Run 30",
-      "focus": "Run · easy",
+      "title": "Lugn löpning 30 min",
+      "focus": "Löpning · lugnt",
       "exercises": []
     },
     {
       "date": "2026-09-27",
-      "title": "September v2 — Active Recovery",
-      "focus": "Recovery",
+      "title": "Aktiv återhämtning",
+      "focus": "Återhämtning",
       "exercises": []
     },
     {
       "date": "2026-09-28",
-      "title": "Sep 28 - Progressive Run",
-      "focus": "Run · progressive",
+      "title": "Progressiv löpning",
+      "focus": "Löpning · progressivt",
       "exercises": []
     },
     {
       "date": "2026-09-29",
-      "title": "September v2 — Upper Hypertrophy + Core — Guided",
-      "focus": "Strength",
+      "title": "Överkropp + bål",
+      "focus": "Styrka",
       "exercises": [
         {
           "exercise": "dumbbell-bench-press",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "bent-over-dumbbell-row",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "dumbbell-shoulder-press",
           "sets": 3,
           "reps": 8,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "lat-pulldown",
           "sets": 3,
           "reps": 10,
-          "rest": "60 sec"
+          "rest": "60 sek"
         },
         {
           "exercise": "farmer-carry",
           "sets": 3,
           "reps": "30–40 m",
-          "rest": "45 sec"
+          "rest": "45 sek"
         },
         {
           "exercise": "dead-bug",
           "sets": 3,
           "reps": 10,
-          "rest": "45 sec"
+          "rest": "45 sek"
         }
       ]
     },
     {
       "date": "2026-09-30",
-      "title": "Sep 30 - ICG Finale 40",
-      "focus": "Bike · power intervals",
+      "title": "ICG-final 40 min",
+      "focus": "Cykel · wattintervaller",
       "exercises": []
     }
   ]
