@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0d10">
+  <title>Träningslogg · RepGuide</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="log.css">
+</head>
+<body>
+  <main class="app-shell log-shell">
+    <header class="app-header">
+      <div><p class="eyebrow">REPGUIDE</p><h1>Träningslogg</h1></div>
+      <a class="icon-button" href="/">Till passet</a>
+    </header>
+
+    <section class="log-card">
+      <p class="eyebrow">NYTT SET</p>
+      <form id="logForm">
+        <label>Övning<select id="exercise" required></select></label>
+        <div class="form-grid">
+          <label>Datum<input id="date" type="date" required></label>
+          <label>Vikt<input id="weight" type="number" min="0" step="0.5" required></label>
+          <label>Enhet<select id="unit"><option value="kg">kg</option><option value="lb">lb</option></select></label>
+          <label>Reps<input id="reps" type="number" min="1" step="1" value="8" required></label>
+          <label>Set<input id="sets" type="number" min="1" step="1" value="3" required></label>
+        </div>
+        <label>Anteckning (valfritt)<input id="notes" maxlength="500" placeholder="Till exempel: kändes lätt"></label>
+        <button class="primary-button" type="submit">Spara träningspass</button>
+        <p id="formMessage" class="form-message" role="status"></p>
+      </form>
+    </section>
+
+    <section class="history-section">
+      <div class="section-heading"><h2>Historik</h2><select id="historyExercise"><option value="">Alla övningar</option></select></div>
+      <div id="history" class="history" aria-live="polite"></div>
+    </section>
+  </main>
+  <script src="log.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+name = "repguide"
+pages_build_output_dir = "."
+compatibility_date = "2026-09-01"
+[[d1_databases]]
+binding = "DB"
+database_name = "repguide-db"
+database_id = "d9f9eec5-841d-40a4-81f1-ea101815007a"
+migrations_dir = "migrations"
